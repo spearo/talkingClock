@@ -52,7 +52,7 @@ func hours() {
 	case 10:
 		fmt.Println("ten", suffix)
 	case 11:
-		fmt.Println("eleven", suffix)
+		fmt.Println("eleven oh", suffix)
 	case 12:
 		fmt.Println("twelve oh", suffix)
 	}
